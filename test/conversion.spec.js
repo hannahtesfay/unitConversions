@@ -23,4 +23,9 @@ describe("convertInput", () => {
         expect(convertInput("A", "B", "C")).to.equal(errorMessage)
     });
 
+    it("should return error for value less than 0", () => {
+        const errorMessage = colors.red.bold(`Please ensure your inputted number is greater than 0.`)
+        expect(convertInput("-1", "cm", "m")).to.equal(errorMessage)
+    });
+
 })

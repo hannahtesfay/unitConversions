@@ -1,5 +1,5 @@
 {
-  "name": "unitconversion",
+  "name": "unitconversions",
   "version": "1.0.0",
   "description": "A program to translate measurement units via the command line.",
   "main": "./lib/conversion.js",
