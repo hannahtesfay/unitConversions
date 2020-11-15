@@ -4,7 +4,7 @@
   "description": "A program to translate measurement units via the command line.",
   "main": "./lib/conversion.js",
   "bin": {
-    "convert": "./bin/index.js"
+    "conversion": "./bin/index.js"
   },
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha"
