@@ -1,0 +1,19 @@
+{
+  "name": "unitconversion",
+  "version": "1.0.0",
+  "description": "A program to translate measurement units via the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahtesfay/unitConversion.git"
+  },
+  "author": "Hannah Mehreteab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahtesfay/unitConversion/issues"
+  },
+  "homepage": "https://github.com/hannahtesfay/unitConversion#readme"
+}
