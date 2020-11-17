@@ -13,3 +13,5 @@ A program to translate measurement units via the command line.
 
 ## Technologies
 - Javascript, Node.js
+# Prerequisites
+- [npm](https://www.npmjs.com/get-npm), [Node.js](https://nodejs.org/en/)
